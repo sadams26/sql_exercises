@@ -1,3 +1,5 @@
+/*Use this script to create the schema for the AB_NYC_2019 table*/
+
 CREATE TABLE AB_NYC_2019 (
         id TEXT NOT NULL,
         name TEXT NOT NULL,
